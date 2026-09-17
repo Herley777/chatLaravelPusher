@@ -300,7 +300,7 @@ O vídeo deverá apresentar o desenvolvimento e o funcionamento do projeto, incl
 
 **Link do vídeo:**
 
-> LINK DO VÍDEO SERÁ INSERIDO AQUI
+[Assistir ao vídeo da atividade no YouTube](https://youtu.be/-AwYGJCTxnM)
 
 ---
 
